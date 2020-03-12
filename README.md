@@ -1,2 +1,2 @@
 # webmysqlbdobjeto
-Mi primer Proyecto WEb
+Mi primer Proyecto Web
